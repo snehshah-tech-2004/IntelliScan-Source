@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+build/
+dist/
+venv/
+venv*/
+.vscode/
+*.exe
+*.log
+Scanner_DB/
+Scanner_Files/
+config.json
+credentials.json
+master_generator.py
+Manual Videos/

@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>icons/activity.png</file>
+    <file>icons/altitude.svg</file>
+    <file>icons/cansat_logo.jpg</file>
+    <file>icons/check.png</file>
+    <file>icons/csv.png</file>
+    <file>icons/csvtab.png</file>
+    <file>icons/Data.png</file>
+    <file>icons/database.png</file>
+    <file>icons/Datatab.png</file>
+    <file>icons/filogo.png</file>
+    <file>icons/graphtab.png</file>
+    <file>icons/high-temperature.png</file>
+    <file>icons/icon.ico</file>
+    <file>icons/icon.svg</file>
+    <file>icons/letterhead.png</file>
+    <file>icons/Sigma_Logo_Temp.png</file>
+    <file>icons/map-pin.png</file>
+    <file>icons/nirma_logo.jpg</file>
+    <file>icons/print.png</file>
+    <file>icons/set.png</file>
+    <file>icons/settingtab.png</file>
+    <file>icons/sigma.png</file>
+    <file>icons/sigma1.png</file>
+    <file>icons/switch-off.png</file>
+    <file>icons/switch-on.png</file>
+    <file>icons/thermometer.png</file>
+    <file>icons/Union.png</file>
+    <file>icons/sigma.png</file>
+    <file>icons/pressure.png</file>
+    <file>icons/humidity.png</file>
+    <file>icons/speed.png</file>
+    <file>icons/energy.png</file>
+  </qresource>
+</RCC>
