@@ -89,7 +89,7 @@ pyinstaller "Sigma Controls - IntelliScan Updater.spec"
 pyinstaller "Sigma Controls License Installer.spec"
 ~~~
 
-The installer is built separately with Inno Setup (script not tracked in this repo).
+The installer is built with Inno Setup using `installer/Setup_IntelliScan.iss` (the paths inside point to the original build machine and need adjusting).
 
 ## Release and update flow
 
