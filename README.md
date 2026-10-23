@@ -75,7 +75,7 @@ python -m venv venv
 
 Not included in the repo (kept out on purpose):
 
-- `credentials.json`: login users. Copy it from a working install.
+- `credentials.json`: login users. Copy `credentials.example.json` to `credentials.json` and set your own `id`, `password` and `mac` (this machine's MAC address, lowercase with colons; get it with `python -c "from getmac import get_mac_address; print(get_mac_address())"`).
 - `config.json`: created automatically on first run (see `config.example.json`).
 - `Scanner_DB/` and `Scanner_Files/`: created at runtime.
 - The license key generator (separate private tool).
